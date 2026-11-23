@@ -53,8 +53,8 @@ I study computer science and data science at UW-Madison and graduate in December
 
 <p align="center">
   <a href="https://amoghmade.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,react,nextjs,nodejs,fastapi,spring,postgres,mysql,redis,pytorch,docker,aws,git&perline=8&theme=dark">
-    <img alt="Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, FastAPI, Spring, PostgreSQL, MySQL, Redis, PyTorch, Docker, AWS, Git" src="https://skillicons.dev/icons?i=py,ts,js,java,react,nextjs,nodejs,fastapi,spring,postgres,mysql,redis,pytorch,docker,aws,git&perline=8&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+    <img alt="Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, FastAPI, Spring, PostgreSQL, MySQL, Redis, PyTorch, Docker, AWS, Git" src="assets/toolbox-light.svg" width="460">
   </picture></a>
 </p>
 
